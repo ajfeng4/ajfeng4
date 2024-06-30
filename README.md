@@ -74,10 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ajfeng4/ajfeng4/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ajfeng4&locale=en&mode=weekly&theme=city_lights&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
