@@ -144,6 +144,6 @@
 
 <br clear="both">
 
-<p align="center">Current Courses:<br>CSE368 Intro to Artificial Intelligence<br>CSE489 Modern Networking Concepts</p>
+<p align="center">Current Courses:<br>CSE302 Intro to Experiental Learning/Research<br>CSE404 Software Project Management<br>CSE411 Intro to Computer Systems Administration</p>
 
 ###
