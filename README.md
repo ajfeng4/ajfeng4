@@ -138,7 +138,7 @@
 
 <br clear="both">
 
-<p align="center">BS Computer Science - May 2025<br>BBA Management Information Systems and Supply Chain Management - May 2025</p>
+<p align="center">BS Computer Science - August 2025<br>BBA Management Information Systems and Supply Chain Management - August 2025</p>
 
 ###
 
