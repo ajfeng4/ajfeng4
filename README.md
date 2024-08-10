@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">Hi! My name is Alex Feng<br>Studying CS and MIS @UB🦬<br><br>I'm currently a Full-Stack Software Engineer at a startup company, Hungie<br>Focused on Mobile IOS Development using Expo Go</p>
+<p align="center">Hi! My name is Alex Feng<br>Studying CS and MIS @UB🦬<br><br>I'm currently a Full-Stack Software Engineer at a startup company, Hungie<br>Focused on Mobile IOS Development using React Native</p>
 
 ###
 
