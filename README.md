@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Junior double majoring in Computer Science and Business Administration @UB</p>
+<p align="center">Junior double majoring in Computer Science and Business Administration @University at Buffalo</p>
 
 ###
 
