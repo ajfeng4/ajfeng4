@@ -53,6 +53,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-[![Top Langs](https://github-readme-stats-alex-fengs-projects-c6a35c09.vercel.app/api/top-langs/?username=ajfeng4&layout=donut)](https://github.com/ajfeng4/github-readme-stats)
 
 ###
