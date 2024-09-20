@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Hungie AI<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com</p>
+<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com</p>
 
 ###
 
