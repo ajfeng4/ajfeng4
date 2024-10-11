@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Junior double majoring in Computer Science and Business Administration @University at Buffalo</p>
+<p align="center">Junior double majoring in Computer Science and Business Administration @UB</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com</p>
+<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>Project Managing:</p>
 
 ###
 
