@@ -12,6 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajfeng4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+<h2 align="left"></h2>
+
 ###
 
 <p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>🤝Project Managing: DevU, Material Microstructures</p>
@@ -60,10 +62,5 @@
 
 ###
 
-<h2 align="left"></h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajfeng4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
