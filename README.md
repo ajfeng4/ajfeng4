@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>🤝Project Managing: DevU, Material Microstructures</p>
+<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang, Koitlin, Swift<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>
 
 ###
 
