@@ -65,9 +65,9 @@
 
 ###
 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/ajfeng4"/>  
-    </div>
+<div align="left">
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
+
 
 ###
