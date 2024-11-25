@@ -2,11 +2,13 @@
 
 ###
 
-<p align="center">Junior double majoring in Computer Science and Business Administration @UB</p>
+<div align="center">
 
 ###
 
 <h2 align="left"></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Junior+double+majoring+in+Computer+Science+and+Business+Administration;Undergraduate+Teaching+Assistant+%40+UB+SEAS;Undergraduate+Research+Assistant+%40+UB+SEAS;Web+Development+Assistant+%40+UB+SDM;Director+of+Procurement+%40+UB+SA;Passionate+Mobile+Developer;Full-Stack+Developer" alt="Typing SVG" /></a>
+</div>
 
 
 ###
