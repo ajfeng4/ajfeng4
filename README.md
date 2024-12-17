@@ -13,7 +13,7 @@
   
 ###
 
-<p align="left">🔭 I’m currently working on: Find a Mechanic, Wenyao Xu's Drink Intake Project<br>🌱 I’m currently learning: Golang<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>
+<p align="left">🔭 I’m currently working on: Personal Projects<br>🌱 I’m currently learning: Golang<br>💬 Ask me about: React Native, Firebase, Mobile Dev, Front-End Dev<br>📫 How to reach me: ajfeng@buffalo.edu, ajfengcs@gmail.com<br>
 
 ###
 
